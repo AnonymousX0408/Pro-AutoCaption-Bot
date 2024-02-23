@@ -20,7 +20,7 @@ start_message = """
 <b>👋Hello {}</b>
 <b>I am an AutoCaption bot</b>
 <b>All you have to do is add me to your channel and I will show you my power</b>
-<b>🚀 More Ads Free & Fast Bot @ProCoderZBots</b>"""
+\n\n<b>🚀 More Ads Free & Fast Bot @ProCoderZBots</b>"""
 
 about_message = """
 <b>• Name : <a href=https://t.me/ProCoderZBots>🥀Auto Caption Pro</a></b>
